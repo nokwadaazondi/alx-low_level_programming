@@ -2,7 +2,7 @@
 #include "dog.h"
 
 /**
- * intit_dog - initializes a variable of the taype struct dog
+ * init_dog - initializes a variable of the taype struct dog
  * @d: pointer to struct dog to initialize
  * @name: name to initialize
  * @age: age to initialize
